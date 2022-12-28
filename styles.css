@@ -1,0 +1,71 @@
+*{
+  margin:  0 ;
+}
+
+
+.first{
+  color: #495579;
+}
+h1{
+  padding-top: 40px;
+  text-align: center;
+
+}
+
+.whole{
+  background-color: #FEA1BF;
+
+}
+.top{
+padding-top: 50px ;
+padding-bottom: 30px ;
+  background-color: #FEA1BF;
+
+
+}
+.letter{
+  background-color: white;
+  width: 60%;
+  margin: auto;
+line-height: 40px;
+padding-top: 50px;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 60px;
+border-radius: 3%;
+}
+h2{
+  text-align: center;
+  color: red;
+
+}
+.poem{
+  background-color: white;
+  padding-top: 170px;
+  padding-bottom: 200px;
+  padding-left: 90px ;
+  padding-right: 90px ;
+  text-align: center;
+}
+.writeup{
+  line-height: 30px;
+  padding-top: 30px;
+}
+.font{
+  color: #ef8172;
+}
+#testimonials{
+
+padding: 160px 40px 150px ;
+  background-color:#ef8172;
+  color:#fff;
+}
+.testimonial-text{
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+.testimonial-image{
+  width:10%;
+  border-radius: 100%;
+  margin: 20px;
+}
